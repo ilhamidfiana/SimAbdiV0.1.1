@@ -1,0 +1,3 @@
+python nyoba.py
+
+pause
